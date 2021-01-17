@@ -14,4 +14,4 @@
 |---|---|
 |<a href="https://softuni.bg/trainings/2996/computer-literacy-may-2020" > Programming Literacy </a>   | <a href="https://softuni.bg/certificates/details/83142/cb9709ad"> Link</a> |
 |<a href="https://softuni.bg/trainings/2961/programming-basics-with-c-sharp-may-2020" > Programming Basics with C# </a>   | <a href="https://softuni.bg/certificates/details/82639/8dd5a32f"> Link</a> |
-|<a href="https://softuni.bg/trainings/2599/programming-fundamentals-january-2020" > Programming Fundamentals </a>   | <a href="https://softuni.bg/certificates/details/93853/10503cf1"> Link</a> |
+|<a href="https://softuni.bg/trainings/2603/python-fundamentals-january-2020" > Programming Fundamentals </a>   | <a href="https://softuni.bg/certificates/details/93853/10503cf1"> Link</a> |
