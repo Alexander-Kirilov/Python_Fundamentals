@@ -14,3 +14,9 @@
 |<a href="https://softuni.bg/trainings/2961/programming-basics-with-c-sharp-may-2020" > Programming Basics with C# </a>   | <a href="https://softuni.bg/certificates/details/82639/8dd5a32f"> Link</a> |
 |<a href="https://softuni.bg/trainings/2603/python-fundamentals-january-2020" > Programming Fundamentals with Python </a>   | <a href="https://softuni.bg/certificates/details/93853/10503cf1"> Link</a> |
 |<a href="https://creative.softuni.bg/trainings/1199/design-basics-november-2020" > Design Basics </a>   | <a href="https://creative.softuni.bg/certificates/details/9728/361bc933"> Link</a> |
+|<a href="https://softuni.bg/trainings/3349/python-advanced-may-2021" > Python Advanced </a>   
+| <a href="https://softuni.bg/certificates/details/112376/7569a048"> Link</a> |
+|<a href="https://softuni.bg/trainings/3350/python-oop-june-2021" > Python OOP </a>   
+| <a href="https://softuni.bg/certificates/details/112958/70d1c1bb"> Link</a> |
+|<a href="https://softuni.bg/trainings/3531/ms-sql-september-2021" > MS SQL </a>   
+| <a href="https://softuni.bg/certificates/details/114123/c4dae19c"> Link</a> |
